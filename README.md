@@ -1,6 +1,6 @@
 # Text Categorization and Summarization for Turkish
 
-** In this NoteBook we will use python and its libraries to: **
+**In this NoteBook we will use python and its libraries to:**
 
 - Read Data from csv file, extract words and then clean it.
 - Calculate the **TF**(Terms Frequencies) vector from the words.
